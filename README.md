@@ -1,9 +1,7 @@
-Here's a professional and well-structured **README.md** file for your **JARVIS Virtual Assistant** project:
-
+# JARVIS – Your Voice-Controlled Virtual Assistant 🤖
 ---
 
 ````markdown
-# JARVIS – Your Voice-Controlled Virtual Assistant 🤖
 
 JARVIS is a browser-based virtual assistant built using **HTML, CSS, and JavaScript**. It uses **Web Speech API** for voice recognition and speech synthesis, allowing users to interact with it via voice commands in real-time.
 
